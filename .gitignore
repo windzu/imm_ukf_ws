@@ -1,3 +1,10 @@
+# ros
+build
+devel
+**.vscode
+.catkin_workspace
+src/CMakeLists.txt
+
 # Prerequisites
 *.d
 
